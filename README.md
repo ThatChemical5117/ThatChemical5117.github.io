@@ -5,7 +5,10 @@
 
 Working through the Computer Science program at SNHU has help with developing skill in many aspects of Software engineering and development. One case of this is my course about agile development, where I learned about how to work in a agile envrionment. This type of development cycle is often used in professional and collaborative settings to make work faster and to quickly iterate through software design.
 This course also helped with creating effective communication both in a team setting, and with corporate share holders. In many courses I needed to apply software engineering principles to effectively complete the assignments. A great example of this that is in this portfolio is CS-210 investment calculator application. There I had designed it with flexibility in mind and that allows for a better collaborative environment and for easier future changes.
-In the CS-300 course I had worked with many different data structures and how algorithms could be used with them to make efficient and effective applications. This course allowed me to better learn about 
+In the CS-300 course I had worked with many different data structures and how algorithms could be used with them to make efficient and effective applications. This course allowed me to better learn about the many available data structures and algorithms and how to apply them effectively.
+In the CS 340 course I learned more about databases. Specifically about SQL and the tools that can be used like mySQL along with how to connect to the database with a language like Python. i also leaned about the alternatives that exist to SQL as possible avenues of extra exploration. which I did end up using in this portfolio. 
+
+after completing the CS program at SNHU I can definitely say that my greatest strength is Software design and engineering. although I do have alot more to learn, I think it's this subject and specific work that I want to go into. 
 
 
 ### Enhancement 1 - Software Design and Engineering
